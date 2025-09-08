@@ -1,3 +1,5 @@
+# AULA SOBRE GITHUB
+
 idade = float(input("Informe a sua idade: "))
 
 if idade >= 18:
